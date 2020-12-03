@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "727118622516",
+    "firebase_url": "https://contact-requests-2bb05.firebaseio.com",
+    "project_id": "contact-requests-2bb05",
+    "storage_bucket": "contact-requests-2bb05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727118622516:android:6c027e0038bc8cd897bf61",
+        "android_client_info": {
+          "package_name": "com.docs.app.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727118622516-c9hpvue858k6bvdj4nbladct1hdc1vvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-r6j8PJQTSOF3D7ZQkYxl8UR8IbHnYe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727118622516-c9hpvue858k6bvdj4nbladct1hdc1vvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727118622516:android:d6a72cf229bf92d297bf61",
+        "android_client_info": {
+          "package_name": "com.mili.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727118622516-c9hpvue858k6bvdj4nbladct1hdc1vvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-r6j8PJQTSOF3D7ZQkYxl8UR8IbHnYe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727118622516-c9hpvue858k6bvdj4nbladct1hdc1vvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

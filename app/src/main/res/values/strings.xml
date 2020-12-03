@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="lbl_first_fetching">Fetching The Latest Conversion Rates</string>
+    <string name="lbl_internet_connection_not_available">Internet Connection Is Required To Fetch Rates For The First Time</string>
+    <string name="lbl_swap_to_and_from">Swap To And From</string>
+    <string name="lbl_from">From</string>
+    <string name="lbl_to">To</string>
+    <string name="lbl_ok">OK</string>
+    <string name="message_app_info">This is an example App built using Currency Layer API (Free Tier Plan) for PayPay Android Coding Assignment</string>
+    <string name="message_connection_error">Something Went Wrong Will Sync After Some Time</string>
+    <string name="lb_enter_amount">Enter Amount</string>
+    <string name="lbl_search_currency">Search Currency</string>
+    <string name="message_no_match">Sorry No Matching Currency Found</string>
+    <string name="lbl_last_sync_time">Rates Last Synced \n%1$s</string>
+</resources>
